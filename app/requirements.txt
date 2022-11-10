@@ -1,0 +1,12 @@
+# pip list --format=freeze > requirements.txt
+torch==1.10.0
+torchvision==0.11.1
+torchaudio==0.10.0
+transformers==4.12.5
+fastapi==0.70.0
+regex==2021.11.10
+uvicorn==0.15.0
+spacy==2.3.5
+scikit-learn==1.0.1
+httpx==0.21.1
+pymongo==4.0

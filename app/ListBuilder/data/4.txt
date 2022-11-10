@@ -1,0 +1,12 @@
+aunt	brother	cousin	daughter	Emma, my niece Emma	father	grandmother	half-sister	Isabella, my mother Isabella	James, my dad James	Kennedy, my cousin Kennedy	Luna, my daughter Luna	mother	niece	Olivia, my twin	parents	Quinn, my cousin Quinn	Rowan, my son Rowan	sister	twin	uncle	Vera, my niece Vera	wife	Xavier, my grandfather Xavier	Yves, my nephew Yves	Zara, my aunt Zara
+aunt-in-law	brother-in-law	cousin-in-law	daughter-in-law	Evelyn, my cousin Evelyn	first-cousin	grandfather	half-brother	Isaiah, my great-uncle Isaiah	Jaxon, my brother Jaxon		Liam, my nephew Liam	mother-in-law	nephew	Oliver, my brother Oliver	parent	Quentin, my great-uncle Quentin	Ruth, my aunt Ruth	son	Tyler, my brother Tyler	uncle-in-law	Valentino, my dog Valentino	William, my grandfather William	Xiomara, my aunt Xiomara	Yusuf, my great-grandfather Yusuf	Zariyah, my niece Zariyah
+Ava, my aunt Ava	boyfriend	children	dog	Elizabeth, my great-aunt Elizabeth	first-cousin-once-removed	granddaughter	half-aunt		Joshua, my uncle Joshua			Mia, my dog Mia	niece-in-law		pet		Ryan, my nephew Ryan	second-cousin	Tiana, my niece Tiana			Wyatt, my best friend Wyatt			
+Amelia, my grandmother Amelia		child	Daphne, my sister Daphne	Eleanor, my grandmother Eleanor	father-in-law	grandson	half-uncle						nephew-in-law		Paul, my nephew Paul		Ryker, my nephew Ryker	spouse				Winston, my great-uncle Winston			
+Abigail, my cat Abigail	best friend	Charlotte, my sister Charlotte			fianc�	great-grandmother	half-niece						Nicolas, my uncle Nicolas				Rebekah, my aunt Rebekah	stepparent				Warren, my nephew Warren			
+		cat			fianc�e	great-grandfather	half-nephew										Rosalee, my great-aunt Rosalee	sibling				Wren, my cat Wren			
+		Camila, my best friend Camila				great-granddaughter	half-first-cousin											stepmother							
+						great-grandson	husband											stepfather							
+						girlfriend	Harper, my sister Harper											sister-in-law							
+						guardian												son-in-law							
+						great-uncle												significant other							
+						great-aunt												Sophia, my little sister Sophia							

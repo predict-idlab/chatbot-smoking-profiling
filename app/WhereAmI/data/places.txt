@@ -1,0 +1,23 @@
+bar	drink, shot, cocktail, food, stool, cabinet, glassware, ice tool, mixer, bottle opener, stranger, bottle, good atmosphere, music, snack, table
+restaurant	food, money, good atmosphere, stranger, cutlery, plate, glass, drink, music, flowers, table, stool, menu
+club	music, drink, shot, cocktail, glass, bottle, mixer, stranger, dance floor, table
+work place	colleague, boss, desk, chair, computer, headphone, meeting, coffee, stranger, customer, table
+kitchen	oven, dishwasher, blender, kettle, toaster, chair, table, counter, coffee, food, cutlery, plate, glass, towel, trash can, cabinet, socket
+living room	sofa, chair, coffee table, rug, curtains, candle, artwork, tv, computer, desk, table, lamp, radiator, socket
+bedroom	bed, lamp, rug, curtains, dresser, mirror, flowers, wardrobe, shelve, bedside table, radiator, socket
+bathroom	mirror, wastebasket, hand soap, towel, toothbrush, toilet, trash can, radiator, socket
+bus stop	pole, passenger, sign, bus, bench, timetable, sidewalk, shelter, stranger
+park	bench, statue, tree, flowers, animal, stranger, dog, plants, lake, pond, stone
+train stop	tracks, railway, train, sign, timetable, bench, shelter, stranger, passenger
+parking lot	vehicle, car, white stripes, marks, square on the ground, stranger, spot, sign
+gas station	vehicle, car, sign, shop, store, fuel dispenser, attendant, pump, fuel cap, hose
+tram stop	tracks, passenger, pole, bench, tram, timetable, sidewalk, shelter, stranger, sign
+garden	hose, tree, flowers, animal, bench, plants, table, stool, tap, shed, pond
+garage	door, vehicle, car, lawn mower, bicycle, tools, storage hook, rack, cabinet, bin, basket, workbench, socket
+museum	painting, relics, exhibits, creature, animal, science project, train, ship, airplane, dinosaur, statue, coin, bowl, mural, stranger
+hotel room	towel, menu, map, mini bar, bed, bedside table, tv, bath, shower, toilet, toiletries, shelves, pillow
+clothes store	cash register, t-shirt, sweater, jacket, coat, jeans, socks, shorts, tracksuit, vest, pajamas, tanktop, skirt, dress, blouse, stranger, salesperson, rack
+mall	stranger, cash register, window, store, shop, sign, railing, bench, bag
+cinema	popcorn, drink, seat, screen, speaker, stranger, movie, salesperson
+coffee shop	coffee machine, cash register, coffee, cup, spoon, cookie, stranger, table, stool, menu, seat
+grocery store	cash register, stranger, bread, chicken, salmon, seafood, pasta, rice, oil, sauce, cereal, soup, vegetable, egg, dairy, cheese, snack, fruit, drink, shelve, rack, salesperson

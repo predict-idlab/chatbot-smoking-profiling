@@ -1,0 +1,28 @@
+version: "3"
+services:
+  app:
+    build: 
+      dockerfile: Dockerfile
+      context: ./app
+    ports: 
+      - "8000:8000"
+    environment:
+      - MONGODB_URL=mongodb:27017
+  trigger:
+    build:
+      dockerfile: Dockerfile
+      context: ./trigger_detection
+    environment:
+      - MONGODB_URL=mongodb:27017
+  mongodb:
+    image: mongo:5.0
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=dbuser
+      - MONGO_INITDB_ROOT_PASSWORD=zehfblosvge6r5g46rh4tsjs65j4
+    volumes:
+      - mongodbdata:/data/db
+    restart: always       
+volumes:
+  mongodbdata:
